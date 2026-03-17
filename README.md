@@ -61,7 +61,7 @@ This project is Task 2 of my Data Science Internship at DevelopersHub Corporatio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/churn-modelling.git
+    git clone https://github.com/kinzaemann/churn-modelling.git
     cd churn-modelling
     ```
 2. Install dependencies:
